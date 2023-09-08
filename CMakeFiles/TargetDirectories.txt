@@ -1,0 +1,3 @@
+/home/xing/zuoye2/CMakeFiles/rebuild_cache.dir
+/home/xing/zuoye2/CMakeFiles/edit_cache.dir
+/home/xing/zuoye2/CMakeFiles/zuoye.dir
